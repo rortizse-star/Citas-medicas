@@ -9,7 +9,7 @@
 El programa permite registrar doctores, pacientes y gestionar citas médicas.
 
 ## Créditos
-Desarrollado por: [Tu Nombre]
+Desarrollado por: RORTIZ
 
 ## Licencia
 Este proyecto está bajo la Licencia
