@@ -16,15 +16,11 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
+*.class
+*.swp
+*.swo
 
-### VS Code ###
-.vscode/
-
-### Mac OS ###
-.DS_Store
+# Carpetas y archivos de IntelliJ IDEA
+.idea/
+*.iml
+out/
